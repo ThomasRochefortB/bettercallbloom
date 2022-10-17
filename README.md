@@ -1,5 +1,5 @@
-# bettercallopt
-Let's finetune OPT on Pile of Law!
+# bettercallbloom
+Let's finetune BLOOM on Pile of Law!
 
 Pile of Law is a large corpus of legal documents.
 
